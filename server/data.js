@@ -1,1 +1,6 @@
-[{"name":"Kanthi","Sex":"Male"},{"name":"heo","Sex":"Male"}]
+let data=[
+ 	 { 
+ 	 	"name":"Kanthi","Sex":"Male"
+ 	  }]
+ 
+module.exports=data
